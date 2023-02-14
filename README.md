@@ -1,5 +1,6 @@
 # 100-Days-of-Python
 Day 1:  Basic Variables
+
 Day 2:  Data Types
 Day 3:  Logical Operators
 Day 4:  Lists
