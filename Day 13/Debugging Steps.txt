@@ -1,0 +1,5 @@
+1. Describe the Problem
+2. Regenerate the Problem (i.e., where does it occur)
+3. Play Computer and Run through each line
+4. Use print to find out the issue 
+5. Use a Debugger, use breakpoints (i.e., pythontutor.com/visualize.html)
