@@ -53,4 +53,6 @@ Day 26: Comprehension
 
 Day 27: Tkinter
 
-Day 28:
+Day 28: Pomodoro App
+
+Day 29 - Password Generator App
