@@ -60,3 +60,7 @@ Day 29 - Password Generator App
 Day 30 - Errors, Exceptions & JSON Handling
 
 Day 31 - Flash Card Capstone
+
+Day 32 - SMTP & DateTime
+
+Day 33 - APIs
