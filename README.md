@@ -56,3 +56,7 @@ Day 27: Tkinter
 Day 28: Pomodoro App
 
 Day 29 - Password Generator App
+
+Day 30 - Errors, Exceptions & JSON Handling
+
+Day 31 - Flash Card Capstone
