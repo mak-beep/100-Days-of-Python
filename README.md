@@ -66,3 +66,5 @@ Day 32 - SMTP & DateTime
 Day 33 - APIs
 
 Day 34 - Quiz App - Modified with Tkinter (GUI) and API
+
+Day 35 - Rain Alert App with API
