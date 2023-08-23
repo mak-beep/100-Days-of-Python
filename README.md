@@ -68,3 +68,5 @@ Day 33 - APIs
 Day 34 - Quiz App - Modified with Tkinter (GUI) and API
 
 Day 35 - Rain Alert App with API
+
+Day 36 - Stock Market News Alert
