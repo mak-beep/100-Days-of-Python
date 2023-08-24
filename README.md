@@ -74,3 +74,7 @@ Day 36 - Stock Market News Alert
 Day 37 - Habit Tracking (Pixela)
 
 Day 38 - Workout Tracking (Google Sheets with Nutrition API)
+
+Day 39: Flight Deal Finder
+
+Day 40: Flight Club (Adding new users to the email list)
