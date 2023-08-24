@@ -70,3 +70,7 @@ Day 34 - Quiz App - Modified with Tkinter (GUI) and API
 Day 35 - Rain Alert App with API
 
 Day 36 - Stock Market News Alert
+
+Day 37 - Habit Tracking (Pixela)
+
+Day 38 - Workout Tracking (Google Sheets with Nutrition API)
