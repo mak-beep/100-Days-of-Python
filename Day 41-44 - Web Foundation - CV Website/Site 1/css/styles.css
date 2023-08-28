@@ -1,0 +1,43 @@
+/* CSS References @ Mozilla Developer */
+
+/***************************TAG SELECTORS***************************/
+body {
+    background-color: #eaf6f6;
+}
+hr {
+    border-style: none;
+    border-top: 5px dotted grey;
+    border-width: 5px;
+    width: 5%;
+    /* background-color: black; */
+}
+h1 {
+    color: #66bfbf;
+}
+
+/* h3 {
+    color: #66bfbf;
+} */
+
+/* Pseudo Classes - for behaviour - responding to actions */
+
+a:hover {
+    font-size: 20px;
+}
+
+/* Used for a group, a tag can have multiple classes */
+/***************************CLASS SELECTORS***************************/
+
+.work-heading {
+    color: red;
+}
+
+.courses-heading {
+    color: green;
+}
+
+/* unique, can't be used with more than one tags in one page*/
+/***************************ID SELECTORS***************************/
+#heading {
+    color: blue;
+}
