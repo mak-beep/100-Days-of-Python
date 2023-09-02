@@ -1,21 +1,21 @@
 # 100-Days-of-Python
-Day 1:  Basic Variables
+Day 01:  Basic Variables
 
-Day 2:  Data Types
+Day 02:  Data Types
 
-Day 3:  Logical Operators
+Day 03:  Logical Operators
 
-Day 4:  Lists
+Day 04:  Lists
 
-Day 5:  Loops
+Day 05:  Loops
 
-Day 6:  Functions
+Day 06:  Functions
 
-Day 7:  Hangman (Project #1)
+Day 07:  Hangman (Project #1)
 
-Day 8: Advance Functions
+Day 08: Advance Functions
 
-Day 9: Dictionary and Lists
+Day 09: Dictionary and Lists
 
 Day 10: Functions with Outputs
 
@@ -37,9 +37,7 @@ Day 18: Turtle
 
 Day 19: Turtle Advanced
 
-Day 20: Snake Game (Part 1)
-
-Day 21: Snake Game (Part 2)
+Day 20-21: Snake Game 
 
 Day 22: Pong
 
@@ -55,26 +53,44 @@ Day 27: Tkinter
 
 Day 28: Pomodoro App
 
-Day 29 - Password Generator App
+Day 29: Password Generator App
 
-Day 30 - Errors, Exceptions & JSON Handling
+Day 30: Errors, Exceptions & JSON Handling
 
-Day 31 - Flash Card Capstone
+Day 31: Flash Card Capstone
 
-Day 32 - SMTP & DateTime
+Day 32: SMTP & DateTime
 
-Day 33 - APIs
+Day 33: APIs
 
-Day 34 - Quiz App - Modified with Tkinter (GUI) and API
+Day 34: Quiz App - Modified with Tkinter (GUI) and API
 
-Day 35 - Rain Alert App with API
+Day 35: Rain Alert App with API
 
-Day 36 - Stock Market News Alert
+Day 36: Stock Market News Alert
 
-Day 37 - Habit Tracking (Pixela)
+Day 37: Habit Tracking (Pixela)
 
-Day 38 - Workout Tracking (Google Sheets with Nutrition API)
+Day 38: Workout Tracking (Google Sheets with Nutrition API)
 
 Day 39: Flight Deal Finder
 
 Day 40: Flight Club (Adding new users to the email list)
+
+Day 41-44: Web Foundatiions {CV Website}
+
+Day 45: BS4 {Web Scraping}
+
+Day 46: Spotify Playlist Creator
+
+Day 47: Amazon Price Tracker
+
+Day 48: Selenium {Cookie Clicker}
+
+Day 49: LinkedIn Automation Bot
+
+Day 50: Tinder Swiping Bot
+
+Day 51: Twitter Bot
+
+Day 52: Instagram Bot
