@@ -11,7 +11,7 @@ Day 05:  Loops
 
 Day 06:  Functions
 
-Day 07:  Hangman (Project #1)
+Day 07:  Hangman
 
 Day 08: Advance Functions
 
@@ -94,3 +94,21 @@ Day 50: Tinder Swiping Bot
 Day 51: Twitter Bot
 
 Day 52: Instagram Bot
+
+Day 53 - Data Entry Job Automation - Capstone
+
+Day 54 - Flask Introduction
+
+Day 55 - CV Website, Higher Lower Number
+
+Day 56 - Identity Website
+
+Day 57 - Jinja
+
+Day 58 - Bootstrap - 'Tindog' Website
+
+Day 59, 60 - Blog - Capstone
+
+Day 61 - WTForms, Template Inheritance and Flask Bootstrap - Login Form
+
+Day 62 - Cafe Tracking - Capstone WebApp
