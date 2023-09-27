@@ -1,0 +1,16 @@
+Serif -
+	Authorative, Serious, a little bit older (A letter head for legal company or a magazine)
+	Types:
+		Old Style, Transitional, Modern, Slab-Serif (Difference between thickest and thinnest part of each other, determine how old will it look.)
+
+Sans-Serifs -
+	more friendly, approachable, noval, contemporary (Startups)
+	Types: (Difference between how easy to read and pleasant to read letters)
+		Grotesque, Neo-Grotesque, Humanist (Highly readable - can be used in body text of sales pitches), Geometric
+	Legibity is determined by letter's open shapes and lot of space bettween them, forms look ambigious, vary proportions
+
+Two fonts in one design (a poster, section of website) - (Better - Recommended) - (fonts with Similar moods and time era, Contrast can be made by one of them being serif and other one is sans-serif {heading and sub-heading}, also by changing weights)
+
+
+
+**Dont Use (Kristen. Comic Sans, Viner, Papyrus, Curlz, EwuBoh) - Difficult to design

@@ -1,0 +1,15 @@
+1. Hierarchy
+can be established through
+	Color
+	Size
+2. Layout
+	Block of text and then interspersed with pictures and then different sizes and shapes
+
+3. Alignment
+	to make it more professional, reduce the number of alignment points
+
+4. White Space
+	By adding more space around each element, design can be made more minimalist
+
+5. Audience
+	Think about them, and what would appeal to them

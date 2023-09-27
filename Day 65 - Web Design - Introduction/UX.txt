@@ -1,0 +1,11 @@
+1. Simplicity
+	
+2. Consistency
+
+3. Reading Pattern
+	Use the F-Layout or Z-Layout (Sparse, more video content, fo someone who is browsing website faster) 
+
+4. All Platform Design
+	Mobile-responsive
+
+5. Don't use Dark Patterns - manipulating users into doing something
