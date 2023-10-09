@@ -112,3 +112,25 @@ Day 59, 60 - Blog - Capstone
 Day 61 - WTForms, Template Inheritance and Flask Bootstrap - Login Form
 
 Day 62 - Cafe Tracking - Capstone WebApp
+
+Day 63 - SQL
+
+Day 64 - My Top10 Movies [Website]
+
+Day 65 - Web Design
+
+Day 66 - REST API [POSTMAN]
+
+Day 67 - Blog with REST API
+
+Day 68 - Flask Authentication
+
+Day 69, 70 - Blog [Capstone]
+
+Day 71 - Data Exploration with Pandas
+
+Day 72 - Data Visualization with Matplotlib
+
+Day 73 - Aggregate and Merge Data with Pandas
+
+Day 74 - Resampling and Visualizing Time Series - Google Trends Data
